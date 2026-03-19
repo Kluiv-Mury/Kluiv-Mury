@@ -34,6 +34,7 @@ Atuo na Prefeitura de Niterói, desenvolvendo pipelines de dados que sustentam c
 [![Prefect](https://img.shields.io/badge/-Prefect-6C00FF?logo=prefect&style=for-the-badge)](https://www.prefect.io/)
 [![ArcGIS](https://img.shields.io/badge/-ArcGIS-EE4C2C?logo=arcgis&style=for-the-badge)](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
 [![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-0078D4?logo=microsoft&style=for-the-badge)](https://learn.microsoft.com/en-us/fabric/)
+[![Dataflow Gen2](https://img.shields.io/badge/-Dataflow%20Gen2-6C00FF?logo=apacheairflow&style=for-the-badge)](https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-overview/)
 [![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&style=for-the-badge)](https://spark.apache.org/)
 
 ---
