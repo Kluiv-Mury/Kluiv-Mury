@@ -22,6 +22,8 @@ Mais detalhes sobre minha trajetória estão no [LinkedIn](https://www.linkedin.
 ## Institution / Current Work
 
 [![Prefeitura de Niterói](https://img.shields.io/badge/-Prefeitura%20de%20Niterói-0078D4?style=for-the-badge)](https://www.niteroi.rj.gov.br/)
+[![SIGEO](https://img.shields.io/badge/-SIGEO-FF7F0E?style=for-the-badge)](https://www.sigeo.niteroi.rj.gov.br/)
+[![UFF - Instituto de Computação](https://img.shields.io/badge/-Instituto%20de%20Computação%20UFF-0055A4?style=for-the-badge)](https://www.ic.uff.br/)
 
 Atuo na Prefeitura de Niterói, desenvolvendo pipelines de dados que sustentam camadas GIS utilizadas no gêmeo digital e em outros sistemas de representação urbana.
 
