@@ -53,7 +53,3 @@ Atuo na Prefeitura de Niterói, desenvolvendo pipelines de dados que sustentam c
 | <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kluiv-mury&theme=radical" /> | <img height="150" src="https://streak-stats.demolab.com/?user=kluiv-mury&theme=radical" /> |
 ---
 
-## Contact Me
-
-- LinkedIn: [Kluivert Mury](https://www.linkedin.com/in/kluivertmury/)  
-- GitHub: [kluiv-mury](https://github.com/kluiv-mury)
